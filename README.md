@@ -1,1 +1,1 @@
-# Intro-to-Machine-Learning course, IDC 2021
+# Intro to Machine Learning course, IDC 2021
