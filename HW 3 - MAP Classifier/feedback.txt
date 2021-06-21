@@ -1,0 +1,4 @@
+Code: get_instance_likelihood should be vectorized. (-2)
+Theory: 4b. Binomial distribution defined for k=0, 1, 2ג¦, you forgot to subtruct P(k=0). (-5)
+
+Final grade: 96
